@@ -126,7 +126,8 @@ If you’re interested in working with us or have any inquiries, feel free to re
 
 For detailed technical documentation, team responsibilities, and project structure, please visit the Wiki:
 
-➡️ [Omnexa Project Wiki]([./wiki/README.md](https://github.com/omnexaTechnology/omnexa-platform-overview/wiki))
+➡️ [Omnexa Project Wiki](https://github.com/omnexaTechnology/omnexa-platform-overview/wiki)
+
 
 
 
