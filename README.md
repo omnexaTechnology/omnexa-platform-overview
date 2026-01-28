@@ -75,29 +75,11 @@ By using our website or contacting us, you agree to the terms of this Privacy Po
 ### 1. Information We Collect
 
 #### A) Personal Information You Provide
-When you contact us, request a service, or communicate with us, you may provide:
-
-- Company name
-- Email address
-- Phone number
-- Project or service-related details
 
 **Company Contact Information:**
 - Company Name: Omnexa Technology
 - Email: info@omnexa-technology.com
 - Phone: +966 55 048 3401
-
----
-
-#### B) Automatically Collected Information
-
-When you visit our website, we may automatically collect:
-
-- IP address
-- Browser type and device information
-- Pages visited and time spent on the website
-- Referring website or source
-- General (non-precise) location data
 
 ---
 
