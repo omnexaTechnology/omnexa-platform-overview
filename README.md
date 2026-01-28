@@ -122,6 +122,13 @@ If you’re interested in working with us or have any inquiries, feel free to re
 📞 Phone: +966 55 048 3401  
 🌐 Website: https://www.omnexa-technology.com  
 
+## 📘 Project Wiki
+
+For detailed technical documentation, team responsibilities, and project structure, please visit the Wiki:
+
+➡️ [Omnexa Project Wiki](./wiki/README.md)
+
+
 
 
 © Omnexa Technology. All rights reserved.
