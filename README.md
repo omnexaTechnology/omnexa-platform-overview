@@ -3,7 +3,7 @@
 **Omnexa Technology** is a software solutions company specializing in building scalable, secure, and modern digital products for businesses, startups, and enterprises.  
 We focus on delivering high-quality software that solves real business problems through technology, design, and engineering excellence.
 
-🌐 Website: https://www.omnexa-technology.com  
+🌐 Website: https://omnexa.sa/ar
 🔗 LinkedIn: https://www.linkedin.com/company/omnexa-technology  
 
 ---
